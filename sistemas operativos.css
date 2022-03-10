@@ -1,0 +1,23 @@
+
+p{
+	margin-left:15px;
+	margin-right:15px;
+	text-align:justify;
+	font-size:20;
+	font-style:italic;
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top:30px;
+	font-size:24;
+	font-style:italic;
+
+}
+ol,li{
+	font-style:italic;
+}
+font-size{
+	font-size:5;
+}
+body{
+	background-color:skyblue;
+}
